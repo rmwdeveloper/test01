@@ -2,7 +2,4 @@ This is the first sentence.
 And here is a second. 
 And a third.
 
-
-Yada.
-Yada.
-Yada.
+I deleted everything below. Woops.
